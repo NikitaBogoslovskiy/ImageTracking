@@ -96,6 +96,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1354430841678984326}
+  - component: {fileID: 66605377770155680}
   m_Layer: 0
   m_Name: Fusebox
   m_TagString: Untagged
@@ -119,6 +120,18 @@ Transform:
   - {fileID: 1792305661406507290}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &66605377770155680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 366428452883267241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70c0e2d672ec6a42b5eced37c5f344d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1151508444174761826
 GameObject:
   m_ObjectHideFlags: 0
